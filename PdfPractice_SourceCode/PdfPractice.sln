@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTesterConsole", "PdfTesterConsole\PdfTesterConsole.csproj", "{9B3598CD-9F2F-4D42-BBA8-C0FEF0CD076D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPdfHelper", "MyPdfHelper\MyPdfHelper.csproj", "{8DEBDFE9-0F72-4C36-9E46-43B3EA909ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTesterWeb", "PdfTesterWeb\PdfTesterWeb.csproj", "{01C82D6D-ADCD-43F0-9BC6-75AE593B0EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3598CD-9F2F-4D42-BBA8-C0FEF0CD076D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3598CD-9F2F-4D42-BBA8-C0FEF0CD076D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3598CD-9F2F-4D42-BBA8-C0FEF0CD076D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3598CD-9F2F-4D42-BBA8-C0FEF0CD076D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEBDFE9-0F72-4C36-9E46-43B3EA909ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEBDFE9-0F72-4C36-9E46-43B3EA909ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEBDFE9-0F72-4C36-9E46-43B3EA909ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEBDFE9-0F72-4C36-9E46-43B3EA909ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C82D6D-ADCD-43F0-9BC6-75AE593B0EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C82D6D-ADCD-43F0-9BC6-75AE593B0EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C82D6D-ADCD-43F0-9BC6-75AE593B0EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C82D6D-ADCD-43F0-9BC6-75AE593B0EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
